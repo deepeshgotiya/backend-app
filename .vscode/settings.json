@@ -1,0 +1,6 @@
+{
+  "window.autoDetectColorScheme": true,
+  "window.commandCenter": false,
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.activityBar.iconClickBehavior": "toggle"
+}
